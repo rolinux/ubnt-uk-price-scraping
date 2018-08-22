@@ -14,7 +14,7 @@ import (
 
 var (
 	// jsonFile for targers with urls, methods and names
-  // change path to full path or run in same folder with targets.json
+        // change path to full path or run in same folder with targets.json
 	jsonFile = "targets.json"
 
 	// map of methods definitions
