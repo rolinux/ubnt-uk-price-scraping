@@ -1,142 +1,62 @@
 [
   {
-    "url": "https://www.netxl.com/poe-network-switches/ubiquiti-unifi-16-port-managed-gigabit-poe-switch-150w/",
-    "name": "Unifi US-16-150W Switch",
+    "url": "https://www.netxl.com/ip-cctv-bullet-cameras/ubiquiti-unifi-uvc-g3-flex-video-camera/",
+    "name": "UVC-G3-FLEX",
     "method": "netxl"
   },
   {
-    "url": "https://www.netxl.com/ip-cctv-bullet-cameras/ubiquiti-unifi-uvc-g3-network-ip-video-surveillance-camera/",
-    "name": "Unifi UVC-G3-AF",
+    "url": "https://www.netxl.com/poe-network-switches/ubiquiti-8-port-managed-desktop-gigabit-switch/",
+    "name": "US8 Port Switch 12W",
     "method": "netxl"
   },
   {
-    "url": "https://www.netxl.com/ip-cctv-bullet-cameras/ubiquiti-unifi-uvc-g3-led-network-ip-video-surveillance-camera/",
-    "name": "Unifi UVC-G3-LED Extender",
+    "url": "https://www.netxl.com/poe-network-switches/ubiquiti-instant-passive-poe-to-8023af-gigabit-indoor-adapter/",
+    "name": "INS-3AF-I-G POE Indoor Adapter",
     "method": "netxl"
   },
   {
-    "url": "https://www.netxl.com/ip-cctv-dome-cameras/ubiquiti-unifi-uvc-g3-dome-network-ip-video-surveillance-camera/",
-    "name": "Unifi UVC-G3 Dome",
-    "method": "netxl"
-  },
-  {
-    "url": "https://www.netxl.com/poe-network-switches/ubiquiti-unifi-8-port-150w-managed-poe-switch/",
-    "name": "Unifi 8 port 150W PoE Switch",
-    "method": "netxl"
-  },
-  {
-    "url": "https://www.wifi-stock.co.uk/details/ubiquiti-unifi-video-camera-uvc-g3-af.html",
-    "name": "Unifi UVC-G3-AF",
+    "url": "https://www.wifi-stock.co.uk/details/ubiquiti-unifi-switch_us-8_poe_passthrou.html",
+    "name": "US8 Port Switch 12W",
     "method": "wifi-stock"
   },
   {
-    "url": "https://www.wifi-stock.co.uk/details/ubiquiti-unifi-switch_us-16-150w.html",
-    "name": "Unifi US-16-150W Switch",
+    "url": "https://www.wifi-stock.co.uk/details/unifi-video-g3-flex-camera-uvc-g3-flex.html",
+    "name": "UVC-G3-FLEX",
     "method": "wifi-stock"
   },
   {
-    "url": "https://www.wifi-stock.co.uk/details/ubiquiti-uvc_g3_led-ir_accessory.html",
-    "name": "Unifi UVC-G3-LED Extender",
+    "url": "https://www.wifi-stock.co.uk/details/ubiquiti_instant_gigabit_indoor_poe_af_c.html",
+    "name": "INS-3AF-I-G POE Indoor Adapter",
     "method": "wifi-stock"
   },
   {
-    "url": "https://www.wifi-stock.co.uk/details/ubiquiti_uvc-dome-g3_unifi-video-camera.html",
-    "name": "Unifi UVC-G3 Dome",
-    "method": "wifi-stock"
-  },
-  {
-    "url": "https://www.wifi-stock.co.uk/details/ubiquiti-unifi-switch_us-8-150w.html",
-    "name": "Unifi 8 port 150W PoE Switch",
-    "method": "wifi-stock"
-  },
-  {
-    "url": "http://www.4gon.co.uk/ubiquiti-unifi-video-camera-g3-uvcg3-p-6736.html",
-    "name": "Unifi UVC-G3-AF",
+    "url": "https://www.4gon.co.uk/ubiquiti-ins3afig-instant-8023af-indoor-gigabit-adapter-p-6951.html",
+    "name": "INS-3AF-I-G POE Indoor Adapter",
     "method": "4gon"
   },
   {
-    "url": "https://www.4gon.co.uk/ubiquiti-unifi-switch-16-150w-us16150w-p-6794.html",
-    "name": "Unifi US-16-150W Switch",
+    "url": "https://www.4gon.co.uk/ubiquiti-unifi-video-g3-flex-indoor-poe-camera-p-7128.html",
+    "name": "UVC-G3-FLEX",
     "method": "4gon"
   },
   {
-    "url": "http://www.4gon.co.uk/ubiquiti-unifi-video-ir-range-extender-uvcg3led-p-6743.html",
-    "name": "Unifi UVC-G3-LED Extender",
+    "url": "https://www.4gon.co.uk/ubiquiti-unifi-switch-8-port-us8-p-6914.html",
+    "name": "US8 Port Switch 12W",
     "method": "4gon"
   },
   {
-    "url": "http://www.4gon.co.uk/ubiquiti-unifi-video-camera-g3-dome-uvcg3dome-p-6738.html",
-    "name": "Unifi UVC-G3 Dome",
-    "method": "4gon"
-  },
-  {
-    "url": "http://www.4gon.co.uk/ubiquiti-unifi-switch-8-150w-us8150w-p-6823.html",
-    "name": "Unifi 8 port 150W PoE Switch",
-    "method": "4gon"
-  },
-  {
-    "url": "https://www.comms-express.com/products/ubiquiti-unifi-1080p-indoor-outdoor-ip-camera-with-infrared/",
-    "name": "Unifi UVC-G3-AF",
-    "method": "comms-express"
-  },
-  {
-    "url": "https://www.comms-express.com/products/ubiquiti-unifiswitch-16-port-150w/",
-    "name": "Unifi US-16-150W Switch",
-    "method": "comms-express"
-  },
-  {
-    "url": "https://www.comms-express.com/products/ubiquiti-wide-angle-1080p-dome-ip-camera-with-infrared/",
-    "name": "Unifi UVC-G3 Dome",
-    "method": "comms-express"
-  },
-  {
-    "url": "https://www.comms-express.com/products/ubiquiti-unifiswitch-8-port-150w/",
-    "name": "Unifi 8 port 150W PoE Switch",
+    "url": "https://www.comms-express.com/products/ubiquiti-g3-flex-indoor-outdoor-poe-camera/",
+    "name": "UVC-G3-FLEX",
     "method": "comms-express"
   },
   {
     "url": "https://www.senetic.co.uk/product/UVC-G3-AF",
-    "name": "Unifi UVC-G3-AF",
+    "name": "UVC-G3-FLEX",
     "method": "senetic"
   },
   {
-    "url": "https://www.senetic.co.uk/product/US-16-150W",
-    "name": "Unifi US-16-150W Switch",
-    "method": "senetic2"
-  },
-  {
-    "url": "https://www.senetic.co.uk/product/UVC-G3-LED",
-    "name": "Unifi UVC-G3-LED Extender",
+    "url": "https://www.senetic.co.uk/product/INS-3AF-I-G",
+    "name": "INS-3AF-I-G POE Indoor Adapter",
     "method": "senetic"
-  },
-  {
-    "url": "https://www.senetic.co.uk/product/UVC-G3-DOME",
-    "name": "Unifi UVC-G3 Dome",
-    "method": "senetic"
-  },
-  {
-    "url": "https://www.senetic.co.uk/product/US-8-150W",
-    "name": "Unifi 8 port 150W PoE Switch",
-    "method": "senetic2"
-  },
-  {
-    "url": "http://www.voipon.co.uk/ubiquiti-unifi-video-camera-g3-dome-uvcg3dome-p-7716.html",
-    "name": "Unifi UVC-G3 Dome",
-    "method": "voipon"
-  },
-  {
-    "url": "http://www.voipon.co.uk/ubiquiti-unifi-video-camera-g3-dome-uvcg3dome-p-7716.html",
-    "name": "Unifi UVC-G3 Dome",
-    "method": "voipon"
-  },
-  {
-    "url": "http://www.voipon.co.uk/ubiquiti-unifi-video-camera-g3-uvcg3-p-6869.html",
-    "name": "Unifi UVC-G3-AF",
-    "method": "voipon"
-  },
-  {
-    "url": "http://www.voipon.co.uk/ubiquiti-unifi-video-ir-range-extender-uvcg3led-p-7715.html",
-    "name": "Unifi UVC-G3-LED Extender",
-    "method": "voipon"
   }
 ]
