@@ -1,62 +1,105 @@
 [
   {
-    "url": "https://www.netxl.com/ip-cctv-bullet-cameras/ubiquiti-unifi-uvc-g3-flex-video-camera/",
-    "name": "UVC-G3-FLEX",
-    "method": "netxl"
+    "name": "netxl",
+    "method": "#__next div main section.Product_overview___gr_b div div.Product_overviewInfoContainer__1pMTY p.Product_productCost__30IxD span",
+    "vat": true,
+    "urls":
+    [
+      {
+        "url": "https://www.netxl.com/ip-cctv-turret-cameras/ubiquiti-unifi-uvc-g3-flex-video-camera/",
+        "name": "UVC-G3-FLEX"
+      },
+      {
+        "url": "https://www.netxl.com/poe-network-switches/ubiquiti-8-port-managed-desktop-gigabit-switch/",
+        "name": "US8 Port Switch 12W"
+      },
+      {
+        "url": "https://www.netxl.com/poe-injectors/ubiquiti-instant-passive-poe-to-8023af-gigabit-indoor-adapter/",
+        "name": "INS-3AF-I-G POE Indoor Adapter"
+      }
+    ]
   },
   {
-    "url": "https://www.netxl.com/poe-network-switches/ubiquiti-8-port-managed-desktop-gigabit-switch/",
-    "name": "US8 Port Switch 12W",
-    "method": "netxl"
+    "name": "wifi-stock",
+    "method": "#det_price table tbody tr:nth-child(2) td:nth-child(1) span",
+    "vat": false,
+    "urls":
+    [
+      {
+        "url": "https://www.wifi-stock.co.uk/details/ubiquiti-unifi-ac-long-range-indoor_ap_u.html",
+        "name": "UBIQUITI UniFi AC LR"
+      },
+      {
+        "url": "https://www.wifi-stock.co.uk/details/ubiquiti_erlite-3_edgerouter.html",
+        "name": "UBIQUITI EdgeRouter Lite (ERLite-3)"
+      },
+      {
+        "url": "https://www.wifi-stock.co.uk/details/ubiquiti-unifi-switch_us-8-60w.html",
+        "name": "UBIQUITI Unifi Fully Managed Gigabit Switch (US-8-60W)"
+      }
+    ]
   },
   {
-    "url": "https://www.netxl.com/poe-network-switches/ubiquiti-instant-passive-poe-to-8023af-gigabit-indoor-adapter/",
-    "name": "INS-3AF-I-G POE Indoor Adapter",
-    "method": "netxl"
+    "name": "4gon",
+    "method": "#price_gross strong",
+    "vat": true,
+    "urls":
+    [
+      {
+        "url": "https://www.4gon.co.uk/ubiquiti-unifi-wifi-6-lite-access-point-u6lite-p-9152.html",
+        "name": "Ubiquiti UniFi WiFi 6 Lite Access Point (U6-Lite)"
+      },
+      {
+        "url": "https://www.4gon.co.uk/ubiquiti-unifi-wifi-6-longrange-access-point-u6lr-p-9160.html",
+        "name": "Ubiquiti UniFi WiFi 6 Long-Range Access Point (U6-LR)"
+      },
+      {
+        "url": "https://www.4gon.co.uk/ubiquiti-unifi-ac-lite-access-point-uapaclite-p-6643.html",
+        "name": "Ubiquiti UniFi AP AC Lite Indoor Access Point (UAP-AC-Lite)"
+      }
+    ]
   },
   {
-    "url": "https://www.wifi-stock.co.uk/details/ubiquiti-unifi-switch_us-8_poe_passthrou.html",
-    "name": "US8 Port Switch 12W",
-    "method": "wifi-stock"
+    "name": "comms-express",
+    "method": "#vat",
+    "vat": true,
+    "urls":
+    [
+      {
+        "url": "https://www.comms-express.com/products/ubiquiti-g3-flex-indoor-outdoor-poe-camera/",
+        "name": "UVC-G3-FLEX"
+      }
+    ]
   },
   {
-    "url": "https://www.wifi-stock.co.uk/details/unifi-video-g3-flex-camera-uvc-g3-flex.html",
-    "name": "UVC-G3-FLEX",
-    "method": "wifi-stock"
+    "name": "linitx",
+    "method": "#body div.product-main-info.pure-u-1.pure-u-md-2-3 div h3 span",
+    "vat": true,
+    "urls":
+    [
+      {
+        "url": "https://linitx.com/product/ubiquiti-unifi-6-lite-wifi-6-dual-band-2x2--access-point---u6-lite-(no-poe-injector)/16685",
+        "name": "UniFi 6 Lite"
+      },
+      {
+        "url": "https://linitx.com/product/ubiquiti-edgemax-edgerouter-8-port-router---er-8/14025",
+        "name": "EdgeMAX EdgeRouter 8"
+      }
+    ]
   },
   {
-    "url": "https://www.wifi-stock.co.uk/details/ubiquiti_instant_gigabit_indoor_poe_af_c.html",
-    "name": "INS-3AF-I-G POE Indoor Adapter",
-    "method": "wifi-stock"
-  },
-  {
-    "url": "https://www.4gon.co.uk/ubiquiti-ins3afig-instant-8023af-indoor-gigabit-adapter-p-6951.html",
-    "name": "INS-3AF-I-G POE Indoor Adapter",
-    "method": "4gon"
-  },
-  {
-    "url": "https://www.4gon.co.uk/ubiquiti-unifi-video-g3-flex-indoor-poe-camera-p-7128.html",
-    "name": "UVC-G3-FLEX",
-    "method": "4gon"
-  },
-  {
-    "url": "https://www.4gon.co.uk/ubiquiti-unifi-switch-8-port-us8-p-6914.html",
-    "name": "US8 Port Switch 12W",
-    "method": "4gon"
-  },
-  {
-    "url": "https://www.comms-express.com/products/ubiquiti-g3-flex-indoor-outdoor-poe-camera/",
-    "name": "UVC-G3-FLEX",
-    "method": "comms-express"
-  },
-  {
-    "url": "https://www.senetic.co.uk/product/UVC-G3-AF",
-    "name": "UVC-G3-FLEX",
-    "method": "senetic"
-  },
-  {
-    "url": "https://www.senetic.co.uk/product/INS-3AF-I-G",
-    "name": "INS-3AF-I-G POE Indoor Adapter",
-    "method": "senetic"
+    "name": "msdist",
+    "method": "body main div div.fluid section:nth-child(3) div div.prdTable.col-lg-7.col-md-12.col-sm-7.col-xs-12.inner div.price",
+    "vat": false,
+    "urls": [
+      {
+        "url": "https://www.msdist.co.uk/ubiquiti/edgemax/edgerouter-12",
+        "name": "Ubiquiti EdgeRouter 12 Port"
+      },
+      {
+        "url": "https://www.msdist.co.uk/ubiquiti/unifi-wireless/u6-lite-wifi-6-access-point",
+        "name": "WiFi 6 Lite"
+      }
+    ]
   }
 ]
