@@ -14,6 +14,10 @@
         "name": "US8 Port Switch 12W"
       },
       {
+        "url": "https://www.netxl.com/ip-cctv-accessories/ubiquiti-uck-g2-plus-unifi-gen2-cloud-key-controller/",
+        "name": "Cloud Key Gen2 Plus"
+      },
+      {
         "url": "https://www.netxl.com/poe-injectors/ubiquiti-instant-passive-poe-to-8023af-gigabit-indoor-adapter/",
         "name": "INS-3AF-I-G POE Indoor Adapter"
       }
@@ -32,6 +36,10 @@
       {
         "url": "https://www.wifi-stock.co.uk/details/ubiquiti_erlite-3_edgerouter.html",
         "name": "UBIQUITI EdgeRouter Lite (ERLite-3)"
+      },
+      {
+        "url": "https://www.wifi-stock.co.uk/details/ubiquiti-unifi-cloud-key-gen2-plus-uck-g2-plus.html",
+        "name": "Cloud Key Gen2 Plus"
       },
       {
         "url": "https://www.wifi-stock.co.uk/details/ubiquiti-unifi-switch_us-8-60w.html",
@@ -54,6 +62,10 @@
         "name": "Ubiquiti UniFi WiFi 6 Long-Range Access Point (U6-LR)"
       },
       {
+        "url": "https://www.4gon.co.uk/ubiquiti-unifi-cloudkey-gen2-plus-uckg2plus-p-7380.html",
+        "name": "Cloud Key Gen2 Plus"
+      },
+      {
         "url": "https://www.4gon.co.uk/ubiquiti-unifi-ac-lite-access-point-uapaclite-p-6643.html",
         "name": "Ubiquiti UniFi AP AC Lite Indoor Access Point (UAP-AC-Lite)"
       }
@@ -68,6 +80,10 @@
       {
         "url": "https://www.comms-express.com/products/ubiquiti-g3-flex-indoor-outdoor-poe-camera/",
         "name": "UVC-G3-FLEX"
+      },
+      {
+        "url": "https://www.comms-express.com/products/ubiquiti-unifi-gen2-plus-cloud-key-controller-uck-g2-plus/",
+        "name": "Cloud Key Gen2 Plus"
       }
     ]
   },
@@ -80,6 +96,10 @@
       {
         "url": "https://linitx.com/product/ubiquiti-unifi-6-lite-wifi-6-dual-band-2x2--access-point---u6-lite-(no-poe-injector)/16685",
         "name": "UniFi 6 Lite"
+      },
+      {
+        "url": "https://linitx.com/product/ubiquiti-unifi-cloud-key-controller-gen2-plus-+-1tb-hdd-nvr---uck-g2-plus/15498",
+        "name": "Cloud Key Gen2 Plus"
       },
       {
         "url": "https://linitx.com/product/ubiquiti-edgemax-edgerouter-8-port-router---er-8/14025",
@@ -95,6 +115,10 @@
       {
         "url": "https://www.msdist.co.uk/ubiquiti/edgemax/edgerouter-12",
         "name": "Ubiquiti EdgeRouter 12 Port"
+      },
+      {
+        "url": "https://www.msdist.co.uk/ubiquiti/unifi-controller/cloud-key-gen2plus",
+        "name": "Cloud Key Gen2 Plus"
       },
       {
         "url": "https://www.msdist.co.uk/ubiquiti/unifi-wireless/u6-lite-wifi-6-access-point",
